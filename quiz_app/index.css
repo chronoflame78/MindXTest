@@ -1,0 +1,25 @@
+.question-container{
+    margin-top: 20px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 50px 10px;
+    text-align: center;
+  
+  }
+  
+  .answer-box{
+    margin-top: 10px;
+    padding: 10px 10px;
+    border: 1px solid black;
+  }
+  
+  .answer-box:hover{
+    background-color: #b3e5fc;
+    cursor: pointer;
+  }
+  
+  .next-button{
+    margin-top: 20px;
+    width:100px;
+  }
